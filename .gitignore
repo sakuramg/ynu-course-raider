@@ -1,0 +1,9 @@
+# 本地凭证与日志 —— 绝不提交
+credentials.json
+*.log
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
